@@ -1,5 +1,5 @@
 # Tensorflow_CharForLSTM
-利用RNN循环网络实实现生成英文、写诗、歌词、小说、生成代码、生成日文等功能等
+利用RNN循环网络实实现生成英文、写诗、歌词、小说、成日文等功能等
 
 开源项目所在地址: https://github.com/hzy46/Char-RNN-TensorFlow
 
